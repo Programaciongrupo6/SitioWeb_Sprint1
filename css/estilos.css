@@ -121,7 +121,7 @@ font-family: 'Nunito Sans', sans-serif;
     display: flex;
     background: rgba(3, 3, 3, 0.2) fixed no-repeat 50% 50%;
     background-size: cover;
-    background-image: url(/img/fondo_seccion_2.png);
+    background-image: url('/img/fondo_seccion_2.png');
 
 }
 #form_registro_usuario {
